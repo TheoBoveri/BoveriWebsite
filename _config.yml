@@ -1,1 +1,25 @@
 theme: jekyll-theme-midnight
+# Site wide configuration
+
+title: Academic Website of Theo Boveri
+locale: de_DE
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Theo Boveri
+  #avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."
+  email: test@abc.de
+  # Do not include the @ symbol in your Twitter username
+  twitter: Wohoo
+  linkedin: #username
+  github: #laderast
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
